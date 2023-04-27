@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexiva0
 - 👀 I’m interested in web development, game development and devops.
-- 🌱 I’m currently learning web api in depths and trying to implement my own simple JavaScript lib for building UI.
+- 🌱 I’m currently deepening my knowledge of the browser APIs and JavaScript engines. Also mentoring number of people on their way to bacome web developers and get promotions in their current companies. 
 - 💞️ I’m looking to collaborate on frontend or backend pieces of web apps.
 - 📫 How to reach me:
   - email: sk6de6iv6@gmail.com
